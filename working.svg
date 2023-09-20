@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200mm" height="200mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20000 20000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID1" horiz-adv-x="601" font-variant="normal" class="str2" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="DejaVu Sans Mono">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="7" horiz-adv-x="601"><path d="M66.0002 729l460.999 0 0 -102 -247 -627 -147 0 237.333 602 -304.333 0 0 127z"/></glyph>
+  </font>
+  <font id="FontID0" horiz-adv-x="675" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Relief SingleLine Outline">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="675"><path d="M69.9997 -19.9997c8.99994,0 16.0001,5.99942 19.0006,12.9996l78.9997 200 341 0 77.9998 -200c2.99971,-7.00013 9.99985,-12.9996 18.9998,-12.9996 10.9998,0 19.9997,8.99994 19.9997,19.9997 0,2.99971 0,5.00033 -1.99981,8.00004l-262 672c-3.99962,9.99985 -10.9998,15.0002 -22.0003,15.0002 -10.9998,0 -17.9999,-5.00033 -21.9995,-15.0002l-266 -672c-1.99981,-1.99981 -1.99981,-5.00033 -1.99981,-8.00004 0,-10.9998 8.99994,-19.9997 19.9997,-19.9997zm114 253l156 392.999 153.001 -392.999 -309 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"DejaVu Sans Mono";src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Relief SingleLine Outline";src:url("#FontID0") format(svg)}
+    .str2 {stroke-width:0.62}
+    .str3 {stroke:black;stroke-width:7.62}
+    .str4 {stroke:black;stroke-width:7.62;stroke-linecap:round;stroke-linejoin:round}
+    .str5 {stroke-width:48.6;stroke-linecap:square}
+    .str0 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:52.92;stroke-linecap:square;stroke-linejoin:round}
+    .str6 {stroke:black;stroke-width:600;stroke-linecap:square}
+    .fil0 {fill:none}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:bold;font-size:12345.7;font-family:'DejaVu Sans Mono'}
+    .fnt0 {font-weight:normal;font-size:12391.2;font-family:'Relief SingleLine Outline'}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-3115" y="-59102" width="7146" height="8873"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="-4092" y1="-97425" x2="4092" y2= "-102575" />
+  <path class="fil0 str0" d="M-4092 -83877c3899,-3457 11837,2522 7339,-3933"/>
+  <text x="-3730" y="-65483"  class="fil1 fnt0">A</text>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(1 0 0 1 -13114.9 -60228.6)" x="10000" y="1127" width="7146" height="8873" xlink:href="working_Images\working_ImgID1.png"/>
+  </g>
+  <path class="fil0 str1" d="M3781 -35504c-18,-24 -16,-27 -34,-51 -28,-133 -181,-479 -240,-627 -84,-209 -161,-418 -245,-627 -167,-417 -322,-837 -489,-1253 -44,-27 -92,-50 -135,-76m-5495 2625c83,-139 422,-1041 514,-1270 83,-207 178,-427 251,-635 50,-142 192,-530 260,-643 43,-26 85,-49 127,-76m2193 -5385c55,23 143,76 195,110 33,35 420,1070 476,1211 319,796 627,1631 946,2430 99,248 439,1060 474,1270l59 364c-85,49 -1908,17 -2167,17 -246,0 -2108,31 -2176,-17l68 -389c35,-208 1250,-3126 1436,-3658 144,-410 344,-818 485,-1228 62,-37 138,-84 203,-110l0 -195"/>
+  <path class="fil2 str0" d="M-3104 -23448l3104 0 0 1552 3104 -3104 -3104 -3104 0 1552 -3104 0 0 3104zm1552 0m1552 776m1552 -776m0 -3104m-1552 -776m-1552 776m-1552 1552"/>
+  <path class="fil0 str0" d="M0 -10455c0,-502 -373,-909 -833,-909 -460,0 -833,407 -833,909 0,1004 746,1818 1667,1818 920,0 1667,-814 1667,-1818 0,-1506 -1119,-2727 -2500,-2727 -1381,0 -2500,1221 -2500,2727 0,2008 1492,3636 3333,3636 1841,0 3333,-1628 3333,-3636 0,-2510 -1865,-4545 -4167,-4545 -2301,0 -4167,2035 -4167,4545 0,3012 2239,5455 5000,5455 2761,0 5000,-2442 5000,-5455"/>
+  <text x="-3661" y="9500"  class="fil0 str3 fnt1">7</text>
+  <polygon class="fil2 str3" points="-2846,15500 2846,15500 2846,16759 -204,24500 -2019,24500 911,17068 -2846,17068 "/>
+  <polygon class="fil2 str4" points="2546,15800 -2546,15800 -2546,16768 911,16768 1352,16768 1190,17177 -1578,24200 -407,24200 2546,16704 "/>
+  <text x="26339" y="24500"  class="fil0 str6 fnt1">7</text>
+  <text x="-18661" y="24500"  class="fil0 str3 fnt1">7</text>
+  <path class="fil2 str4" d="M2246 16100l-4491 0 0 368 3157 0 440 0c166,0 300,134 300,300 0,46 -10,89 -28,128l-154 390 -2608 6614 527 0 2857 -7252 0 -548z"/>
+ </g>
+</svg>
